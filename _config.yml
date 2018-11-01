@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xinyu Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinyu Wang"
+description              : &description "Undergraduate student at University of Connecticut"
+url                      : https://xinyuwang1209.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -72,20 +72,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Xinyu Wang"
+  avatar           : "xinyu.png"
+  bio              : "Xinyu Wang at University of Connecticut, Research Assistant in Laboratory of Machine Learning & Health Informatics"
+  location         : "Connecticut"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "xinyuwang1209@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xinyuwang1209"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Lab              :  "http://www.labhealthinfo.uconn.edu/"
 
 
 # Reading Files
