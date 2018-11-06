@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, GitHub University, 2019 (expected
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-Now: Research Assistant
+  * University of Connecticut
+  * Duties included: Machine Learnine
+  * Supervisor: Professor JInbo Bi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-Now: Research Assistant
+  * University of Connecticut
+  * Duties included: Secure Inter-Domain Routing
+  * Supervisor: Professor Amir Herzberg
+
+* 2018-Now: Teaching Assistant
+  * University of Connecticut
+  * Duties included: Computer Architecture
+  * Supervisor: Professor Sheida Nabavi
   
 Skills
 ======
