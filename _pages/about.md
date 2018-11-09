@@ -13,10 +13,8 @@ I am an undergraduate student with dual degree in Computer Science & Engineering
 
 ## Experience
 
-## Awards
-
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Honors and Awards
+* UConn School of Engineering Synchrony Financial Scholarship in Cybersecurity (October 2017)
+* Third Overall in UConn 2017 Calculus Competition (April 2017)
+* 2016 New England Scholars (January 2017)
+* Dean’s list in UConn School of Engineering and School of Liberal Arts and Sciences (Fall 2015 - Present)
