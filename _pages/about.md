@@ -13,10 +13,10 @@ I am an undergraduate student with dual degree in Computer Science & Engineering
 
 ## Education
 ### University of Connecticut, Storrs, CT
-#### Bachelor of Computer Science & Engineering in School of Engineering
-#### Bachelor of Mathematics in College of Liberal Arts and Sciences
-#### Class of 2019, Honors Program, Dean’s list, School of Engineering Scholar, New England Scholar
-#### GPA 3.83/4.0
+    * Bachelor of Computer Science & Engineering in School of Engineering
+    * Bachelor of Mathematics in College of Liberal Arts and Sciences
+    * Class of 2019, Honors Program, Dean’s list, School of Engineering Scholar, New England Scholar
+    * GPA 3.83/4.0
 
 
 ## Experience
