@@ -25,15 +25,14 @@ I am an undergraduate student with dual degree in Computer Science & Engineering
 * Collaborated with doctoral and postdoctoral researchers and research faculties from Yale
 University to study the applications of machine learning algorithms in health informatics.
 * Supervisor: Professor Jinbo Bi
-* Website: https://healthinfo.lab.uconn.edu/
+* Website: [https://healthinfo.lab.uconn.edu/](https://healthinfo.lab.uconn.edu/)
 
 ##### Research Assistant in UConn Comcast Center for Excellence in Security Innovation (September 2017 - Present)
 * Collaborated with doctoral researchers to work on Secure Inter-Domain Routing project which
 aims to design softwares that provide a user-friendly interface for Internet Service Providers to
 adopt RPKI, a specialized public key infrastructure framework for securing routing.
 * Supervisor: Professor Amir Herzberg
-* Website: https://csi.uconn.edu/
-
+* Website: [https://csi.uconn.edu/](https://csi.uconn.edu/])
 
 ## Teaching Experience
 * Teaching Assistant for CSE 2500 Introduction to Discrete Systems (Spring 2018)
