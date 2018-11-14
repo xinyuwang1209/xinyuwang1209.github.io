@@ -13,9 +13,10 @@ I am an undergraduate student with dual degree in Computer Science & Engineering
 
 ## Education
 ### University of Connecticut, Storrs, CT
-   * Bachelor of Computer Science & Engineering in School of Engineering
-   * Bachelor of Mathematics in College of Liberal Arts and Sciences
-   * Class of 2019, Honors Program, Dean’s list, School of Engineering Scholar, New England Scholar
+   * Bachelor of Computer Science & Engineering
+   * Bachelor of Mathematics B.A.
+   * Class of 2019, Honors Program, Dean’s list
+   * School of Engineering Scholar, New England Scholar
    * GPA 3.83/4.0
 
 
@@ -35,6 +36,11 @@ adopt RPKI, a specialized public key infrastructure framework for securing routi
 
 ##### Teaching Assistant for UConn Undergraduate Course CSE 2500, CSE 3666 (Spring 2018 - Present)
 * Responsibilities include grading students’ work and holding weekly office hours.
+
+## Publications
+__[Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes](http://www.engr.uconn.edu/~jinbo/doc/BIBM2017_phenotypeImputation.pdf)__  
+Jin Lu, Jiangwen Sun, Xinyu Wang, Henry R. Kranzler, Joel Gelernter, and Jinbo Bi 
+Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 392-397, 2017.
 
 ## Honors and Awards
 * UConn School of Engineering Synchrony Financial Scholarship in Cybersecurity (October 2017)
