@@ -6,8 +6,8 @@ main:
   - title: "Lab"
     url: http://www.labhealthinfo.uconn.edu/
 
-  - title: "MLDDD"
-    url: https://mlddd-ct.github.io/
+#  - title: "MLDDD"
+#    url: https://mlddd-ct.github.io/
   
   - title: "Learning Group"
     url: https://xmachinelearning.github.io
