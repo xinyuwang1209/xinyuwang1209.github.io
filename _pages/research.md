@@ -18,27 +18,15 @@ author_profile: true
 
 * Currently work on designing a generalized web-based visualization interface for interactive presentation of clustered molecules for demonstration and analysis purpose.
 
-## Secure Inter-Domain Routing
-
-* A research on protocols to secure inter-domain  routing based on current Borderless Gateway Protocol (BGP) and Resource Public Key Infrastructure (RPKI).
-
-#### SmartValidator (January 2018 - May 2018)
-
-* Reviewed and improved the performance of SmartValidator2, a software designed by former researchers to handle conflicted BGP announcements smoothly. 
-Plan on cooperating with Comcast and testing the RPKI smart validator on their network.
-
-#### RPKI/ROV Forecast Web-Service (June 2018 - Present)
+#### Secure Inter-Domain Routing - RPKI/ROV Forecast Web-Service (June 2018 - Present)
 
 * Currently work on designing and building a software that provides forecast service for Internet Service Providers to predict potential impact of adopting specific policies with RPKI. Expect to complete the product by the end of 2018.
-
-
 
 ## “A Provable Multi-linear Model for Tensor Completion Using Auxiliary Features”
 
 * A research on improving the performance of Tensor completion with Side information (TECOS). A stochastic process is implemented in TECOS to achieve sublinear convergence rate by relaxing the constraints instead of objective functions.
 * Coauthors: Jin Lu, Jiangwen Sun, Xinyu Wang, Jinbo Bi.
 * Submitted to International Conference on Machine Learning (ICML 2018).
-
 
 
 ## “Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes” (September 2017 - April 2018)
@@ -51,7 +39,12 @@ Plan on cooperating with Comcast and testing the RPKI smart validator on their n
 
 * Invited to publish an extended version on ISVOS Journal.
 
+## Secure Inter-Domain Routing - SmartValidator (January 2018 - May 2018)
 
+* A research on protocols to secure inter-domain  routing based on current Borderless Gateway Protocol (BGP) and Resource Public Key Infrastructure (RPKI).
+
+* Reviewed and improved the performance of SmartValidator2, a software designed by former researchers to handle conflicted BGP announcements smoothly. 
+Plan on cooperating with Comcast and testing the RPKI smart validator on their network.
 
 ## Parameter Optimization for LADMM using Inverse Method with Neural Network (December 2017 - Present)
 
