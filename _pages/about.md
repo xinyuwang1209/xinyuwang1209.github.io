@@ -34,8 +34,10 @@ adopt RPKI, a specialized public key infrastructure framework for securing routi
 * Supervisor: Professor Amir Herzberg
 * Website: https://csi.uconn.edu/
 
-##### Teaching Assistant for UConn Undergraduate Course CSE 2500, CSE 3666 (Spring 2018 - Present)
-* Responsibilities include grading students’ work and holding weekly office hours.
+
+## Teaching Experience
+* Teaching Assistant for CSE 2500 Introduction to Discrete Systems (Spring 2018)
+* Teaching Assistant for CSE 3666 Introduction to Computer Architecture (Fall 2018) 
 
 ## Publications
 __[Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes](http://www.engr.uconn.edu/~jinbo/doc/BIBM2017_phenotypeImputation.pdf)__  
@@ -54,3 +56,7 @@ Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (
 * Member of UConn 3D Printing Club (September 2017 - April 2018)
 * Participant of UConn Math Problem Seminar (January 2017 - Present)
 * Member of UConn Math Club (January 2017 - Present)
+
+## Contact
+* Email: xinyu.wang@uconn.edu
+* Address: 371 Fairfield Way, Unit 4155 Storrs, Conntecticut 06269-4155 
