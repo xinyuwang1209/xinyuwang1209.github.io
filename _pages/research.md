@@ -30,11 +30,10 @@ author_profile: true
 
 ## Secure Inter-Domain Routing - SmartValidator
 * A research on protocols to secure inter-domain  routing based on current Borderless Gateway Protocol (BGP) and Resource Public Key Infrastructure (RPKI).
-* Reviewed and improved the performance of SmartValidator2, a software designed by former researchers to handle conflicted BGP announcements smoothly. 
+* Reviewed and improved the performance of SmartValidator2, a software designed by former researchers to handle conflicted BGP announcements smoothly.
 Plan on cooperating with Comcast and testing the RPKI smart validator on their network.
 
 ## Parameter Optimization for LADMM using Inverse Method with Neural Network
 * A Study on solving the difficulty of locating best parameters during the experiment on the LADMM algorithm using a framework implemented based on a published paper which applied neural network on the traditional inverse method.
 Implemented LADDM algorithm in Python for future study of solving linear inverse problems suing deep projection models.
-
 * Currently Suspended the project and plan to continue on this study next year. 
