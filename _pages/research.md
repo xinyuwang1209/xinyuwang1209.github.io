@@ -7,8 +7,6 @@ author_profile: true
 
 ## Depression Discovery
 * A Machine Learning Study on the Relational modeling between Brain MRI and Genotypes of Depression.
-* The aim is to discover this relation by developing a prediction model with a novel machine learning approach.
-* Currently work on pre-processing Brain MRI data.
 
 ## Machine Learning In Drug Discovery and Development
 * A research on applying artificial intelligence to drug discovery by developing innovative approaches to incorporate biochemical knowledge derived from data for drug development.
