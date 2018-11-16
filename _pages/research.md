@@ -15,6 +15,7 @@ author_profile: true
 
 ## Secure Inter-Domain Routing - RPKI/ROV Forecast Web-Service
 * Currently work on designing and building a software that provides forecast service for Internet Service Providers to predict potential impact of adopting specific policies with RPKI. Expect to complete the product by the end of 2018.
+
 ## “A Provable Multi-linear Model for Tensor Completion Using Auxiliary Features”
 * A research on improving the performance of Tensor completion with Side information (TECOS). A stochastic process is implemented in TECOS to achieve sublinear convergence rate by relaxing the constraints instead of objective functions.
 * Coauthors: Jin Lu, Jiangwen Sun, Xinyu Wang, Jinbo Bi.
