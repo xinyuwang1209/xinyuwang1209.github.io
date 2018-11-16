@@ -18,8 +18,6 @@ author_profile: true
 ## “A Provable Multi-linear Model for Tensor Completion Using Auxiliary Features”
 * A research on improving the performance of Tensor completion with Side information (TECOS). A stochastic process is implemented in TECOS to achieve sublinear convergence rate by relaxing the constraints instead of objective functions.
 * Coauthors: Jin Lu, Jiangwen Sun, Xinyu Wang, Jinbo Bi.
-* Submitted to International Conference on Machine Learning (ICML 2018).
-
 
 ## “Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes”
 * A research on predicting symptoms of comorbid conditions using matrix completion method. A stochastic and parallel algorithm LADMM (Linearized  Alternating Direction Method) is developed to solve this problem with  significant improvement on both efficiency and accuracy compared with other existing algorithms.
