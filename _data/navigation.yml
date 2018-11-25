@@ -17,3 +17,6 @@ main:
   
   - title: "Cat"
     url: /cat/
+
+  - title "Blog"
+    url: /year-archive/
