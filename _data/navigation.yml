@@ -18,5 +18,5 @@ main:
   - title: "Cat"
     url: /cat/
 
-  - title "Blog"
+  - title: "Blog"
     url: /year-archive/
