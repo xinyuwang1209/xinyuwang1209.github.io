@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: http://xinyuwang1209.com/research/ 
+    url: https://me.xinyuwang1209.com/research/ 
     
   - title: "Lab"
-    url: http://www.labhealthinfo.uconn.edu/
+    url: https://www.labhealthinfo.uconn.edu/
 
 #  - title: "MLDDD"
 #    url: https://mlddd-ct.github.io/
@@ -16,7 +16,7 @@ main:
     url: https://raw.githubusercontent.com/xinyuwang1209/xinyuwang1209.github.io/master/files/Xinyu%20Wang%20Resume%20Fall%202018.pdf
   
   - title: "Cat"
-    url: /cat/
+    url: https://me.xinyuwang1209.com/cat/
 
   - title: "Blog"
-    url: /year-archive/
+    url: https://me.xinyuwang1209.cin/year-archive/
