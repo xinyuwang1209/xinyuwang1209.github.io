@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-
-I am an undergraduate student with dual degree in Computer Science & Engineering and Mathematics at University of Connecticut. Currently I am an undergraduate researcher in [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/). My prime research inerests are in machine learning.
+I am currently a Ph.D. student at the University of Connecticut. I previously completed a dual degree in Computer Science & Engineering and Mathematics at UConn. I began my research journey in the Laboratory of Machine Learning & Health Informatics, where I developed a strong interest in machine learning, which continues to be my primary research focus.
 
 ## Education
+### University of Connecticut, Storrs, CT
+   * PhD of Computer Science & Engineering
 ### University of Connecticut, Storrs, CT
    * Bachelor of Computer Science & Engineering
    * Bachelor of Mathematics B.A.
    * Class of 2019, Honors Program, Dean’s list
    * School of Engineering Scholar, New England Scholar
-   * GPA 3.83/4.0
 
 
 ## Experience
@@ -49,13 +49,5 @@ Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (
 * 2016 New England Scholars (January 2017)
 * Dean’s list in UConn School of Engineering and School of Liberal Arts and Sciences (Fall 2015 - Present)
 
-## Extra-curricular activities/clubs:
-* Member of Upsilon Pi Epsilon International Honor Society (May 2018 - Present)
-* Member of UConn Deep Learning Group (September 2017 - Present)
-* Member of UConn 3D Printing Club (September 2017 - April 2018)
-* Participant of UConn Math Problem Seminar (January 2017 - Present)
-* Member of UConn Math Club (January 2017 - Present)
-
 ## Contact
 * Email: xinyu.wang@uconn.edu
-* Address: 371 Fairfield Way, Unit 4155 Storrs, Conntecticut 06269-4155 
