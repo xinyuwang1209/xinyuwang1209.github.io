@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Wang"
 title_separator          : "-"
 name                     : &name "Xinyu Wang"
-description              : &description "Undergraduate student at University of Connecticut"
+description              : &description "PhD student at University of Connecticut"
 url                      : "xinyuwang1209.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Xinyu Wang"
   avatar           : "xinyu.png"
-  bio              : "Undergraduate Student in CSE and Mathematics at University of Connecticut"
+  bio              : "PhD Student in Computer Science and Engineering at University of Connecticut"
   location         : "Connecticut"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ"
   email            : "xinyuwang1209@gmail.com"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   github           : "xinyuwang1209"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         :
 #   orcid            : "http://orcid.org/yourorcidurl"
