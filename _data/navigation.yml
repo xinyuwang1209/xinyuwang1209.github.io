@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Cat"
+    url: /cat/
+
   - title: "Resume"
     url: /files/Xinyu-Wang-Resume-2026.pdf
 
