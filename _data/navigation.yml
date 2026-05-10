@@ -1,22 +1,19 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "Research"
-    url: https://me.xinyuwang1209.com/research/ 
-    
-  - title: "Lab"
-    url: https://www.labhealthinfo.uconn.edu/
+    url: /research/
 
-#  - title: "MLDDD"
-#    url: https://mlddd-ct.github.io/
-  
-  - title: "Learning Group"
-    url: https://xmachinelearning.github.io
-    
-  - title: "CV"
-    url: https://raw.githubusercontent.com/xinyuwang1209/xinyuwang1209.github.io/master/files/Xinyu%20Wang%20Resume%20Fall%202018.pdf
-  
-  - title: "Cat"
-    url: https://me.xinyuwang1209.com/cat/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Blog"
-    url: https://me.xinyuwang1209.cin/year-archive/
+  - title: "Resume"
+    url: /files/Xinyu-Wang-Resume-2026.pdf
+
+  - title: "GitHub"
+    url: https://github.com/xinyuwang1209

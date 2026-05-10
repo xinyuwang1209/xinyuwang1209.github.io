@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Xinyu Wang"
 title_separator          : "-"
 name                     : &name "Xinyu Wang"
-description              : &description "PhD student at University of Connecticut"
-url                      : "xinyuwang1209.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD researcher in machine learning, LLM agents, and applied AI systems"
+url                      : "https://www.xinyuwang1209.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xinyuwang1209/xinyuwang1209.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Wang"
-  avatar           : "xinyu.png"
-  bio              : "PhD Student in Computer Science and Engineering at University of Connecticut"
+  avatar           : "profile.png"
+  bio              : "PhD researcher in ML, LLM agents, and applied AI systems"
   location         : "Connecticut"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "xinyuwang1209"
 #   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

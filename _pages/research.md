@@ -5,34 +5,42 @@ permalink: /research/
 author_profile: true
 ---
 
-## Depression Discovery
-* A Machine Learning Study on the Relational modeling between Brain MRI and Genotypes of Depression.
+My research is centered on reliable machine learning systems: models and agents that can be evaluated, adapted, constrained, and deployed in workflows where mistakes matter.
 
-## Machine Learning In Drug Discovery and Development
-* A research on applying artificial intelligence to drug discovery by developing innovative approaches to incorporate biochemical knowledge derived from data for drug development.
-* Investigated the effectiveness of applying OctNet convolutional network on representing 3D structures of molecules, and analyzed the performances between tSNE and UMAP algorithms applied on dimension reduction of molecule features.  
-* Currently work on designing a generalized web-based visualization interface for interactive presentation of clustered molecules for demonstration and analysis purpose.
+## LLM Agents, Control, and Safety
 
-## Secure Inter-Domain Routing - RPKI/ROV Forecast Web-Service
-* Currently work on designing and building a software that provides forecast service for Internet Service Providers to predict potential impact of adopting specific policies with RPKI. Expect to complete the product by the end of 2018.
+I study long-horizon language agents that must decide when to ask, delegate, verify, act, or escalate. This includes learning under the agent's own continuation policy, evaluating action value and regret, and designing guard frameworks for tool-using coding agents.
 
-## “A Provable Multi-linear Model for Tensor Completion Using Auxiliary Features”
-* A research on improving the performance of Tensor completion with Side information (TECOS). A stochastic process is implemented in TECOS to achieve sublinear convergence rate by relaxing the constraints instead of objective functions.
-* Coauthors: Jin Lu, Jiangwen Sun, Xinyu Wang, Jinbo Bi.
+Recent themes:
 
-## “Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes”
-* A research on predicting symptoms of comorbid conditions using matrix completion method. A stochastic and parallel algorithm LADMM (Linearized  Alternating Direction Method) is developed to solve this problem with  significant improvement on both efficiency and accuracy compared with other existing algorithms.
-* Contribution: Tested performances of different matrix completion algorithms (extended to tensor completion algorithms in the later project) in large-scale genetic studies of substance use disorders.
-* Coauthors: Jin Lu, Jiangwen Sun, Xinyu Wang, Jinbo Bi.
-* Submitted to and accepted by IEEE BIBM 2017.
-* Invited to publish an extended version on ISVOS Journal.
+* Reliable action selection for language agents.
+* Counterfactual action-value relabeling and audited evaluation.
+* Route, provenance, and capability checks for high-risk tool use.
+* Agent evaluation with explicit success, safety, and misfire criteria.
 
-## Secure Inter-Domain Routing - SmartValidator
-* A research on protocols to secure inter-domain  routing based on current Borderless Gateway Protocol (BGP) and Resource Public Key Infrastructure (RPKI).
-* Reviewed and improved the performance of SmartValidator2, a software designed by former researchers to handle conflicted BGP announcements smoothly.
-Plan on cooperating with Comcast and testing the RPKI smart validator on their network.
+## Foundation Models and Model Adaptation
 
-## Parameter Optimization for LADMM using Inverse Method with Neural Network
-* A Study on solving the difficulty of locating best parameters during the experiment on the LADMM algorithm using a framework implemented based on a published paper which applied neural network on the traditional inverse method.
-Implemented LADDM algorithm in Python for future study of solving linear inverse problems suing deep projection models.
-* Currently Suspended the project and plan to continue on this study next year. 
+I develop methods for adapting and evaluating foundation models under constrained settings, including data-free model merging and performance enhancement without task data, training, or test-time tuning.
+
+Recent work improved average benchmark performance to 86.1 across 7 NLP tasks and 8 vision tasks under strict no-data constraints, with emphasis on reproducible evaluation and strong baseline comparisons.
+
+## Sequence Modeling, Decoding, and Search
+
+I work on structure-aware generation methods for autoregressive sequence models, especially settings where repeated outputs and hidden structural collapse can harm constrained generation.
+
+This work includes distributed asynchronous generation and evaluation frameworks, token-level value prediction, human-in-the-loop steering, and large-scale candidate generation over structured spaces.
+
+## Applied AI for Health and Scientific Discovery
+
+I began my research in the Laboratory of Machine Learning and Health Informatics, where I worked on machine learning for health, genomics, multimodal data, molecular generation, and drug discovery.
+
+Selected directions include:
+
+* Multimodal health modeling with imaging, demographic, and auxiliary biomarkers.
+* Depression treatment outcome prediction using mobile sensing and clinical data.
+* Molecular generation with hierarchical chemical graph representations and autoregressive chemical language models.
+* Matrix completion and tensor modeling for biomedical phenotyping.
+
+## Earlier Systems Work
+
+Earlier in my research path, I also worked on secure inter-domain routing and RPKI/ROV forecast tools through the UConn Comcast Center for Excellence in Security Innovation. That work helped shape my interest in systems that combine algorithmic decisions with practical deployment constraints.

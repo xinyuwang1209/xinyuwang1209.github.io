@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Preprints and Under Review
+
+{% assign preprints = site.publications | where: "category", "preprint" | sort: "date" | reverse %}
+{% for post in preprints %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Peer-Reviewed Publications
+
+{% assign peer_reviewed = site.publications | where: "category", "peer-reviewed" | sort: "date" | reverse %}
+{% for post in peer_reviewed %}
   {% include archive-single.html %}
 {% endfor %}

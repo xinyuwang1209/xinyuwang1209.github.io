@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,54 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2019 (expected
+[Download my current resume](/files/Xinyu-Wang-Resume-2026.pdf){: .btn .btn--primary}
 
-Work experience
-======
-* 2017-Now: Research Assistant
-  * University of Connecticut
-  * Duties included: Machine Learnine
-  * Supervisor: Professor JInbo Bi
+## Summary
 
-* 2017-Now: Research Assistant
-  * University of Connecticut
-  * Duties included: Secure Inter-Domain Routing
-  * Supervisor: Professor Amir Herzberg
+I am a Ph.D. candidate in Computer Science and Engineering at the University of Connecticut, with research and engineering experience in LLM agents, generative AI, RAG, agentic control and safety, foundation-model adaptation, large-scale evaluation, and ML systems engineering.
 
-* 2018-Now: Teaching Assistant
-  * University of Connecticut
-  * Duties included: Computer Architecture
-  * Supervisor: Professor Sheida Nabavi
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Ph.D., Computer Science and Engineering, University of Connecticut, expected August 2026.
+* B.S.E., Computer Science and Engineering, University of Connecticut, 2019.
+* B.A., Mathematics, University of Connecticut, 2019.
+
+## Experience
+
+* Graduate Research Assistant, Laboratory of Machine Learning and Health Informatics, May 2017 - Present.
+
+## Skills
+
+Python, C++, PyTorch, LLM agents, RAG, generative AI, diffusion models, asynchronous CPU-GPU pipelines, large-scale evaluation harnesses, backend services, and experiment automation.
+
+## Publications
+
+<ul>{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
