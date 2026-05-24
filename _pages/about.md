@@ -14,6 +14,7 @@ I am currently looking for AI/ML research internships and applied scientist role
 
 [Resume](/files/Xinyu-Wang-Resume-2026.pdf){: .btn .btn--primary}
 [Projects](/projects/){: .btn}
+[Notes](/notes/){: .btn}
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ){: .btn}
 [GitHub](https://github.com/xinyuwang1209){: .btn}
 

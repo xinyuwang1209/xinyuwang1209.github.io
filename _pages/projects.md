@@ -17,6 +17,8 @@ These selected projects highlight the work most relevant to AI/ML research inter
 
 **Keywords:** LLM agents, agentic AI, safety, tool use, coding agents, evaluation, counterfactual action values.
 
+Related engineering note: [Codex memory-fix fork](/notes/#codex-memory-fix-fork), a small Rust systems patch for large local coding-agent session files.
+
 ## Data-Free Foundation Model Adaptation
 
 **Problem:** Model merging and adaptation methods often need task data, training, test-time tuning, or recipe-specific assumptions.
