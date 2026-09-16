@@ -1,15 +1,19 @@
 ---
-title: "DIAL: Data-Free Interference-Aware Layer-Scaling via Diagnostic Composition for Task-Vector Model Merging"
+title: "Beyond Linear Depth Scaling: Diagnosing Piecewise Layer Reliability for Data-Free Model Merging (DIAL)"
 collection: publications
 permalink: /publication/2026-01-01-DIAL-Data-Free-Interference-Aware-Layer-Scaling
 excerpt: "Data-free performance enhancement for task-vector model merging."
 date: 2026-01-01
-venue: "Manuscript under review"
+venue: "Submitted to NeurIPS 2026"
 category: preprint
-status: Under review
-citation: "Xinyu Wang, Kangwei Deng, Fei Dou, Jinbo Bi, Jiangwen Lu. DIAL: Data-Free Interference-Aware Layer-Scaling via Diagnostic Composition for Task-Vector Model Merging. Manuscript under review, 2026."
+status: "Submitted to NeurIPS 2026"
+citation: "X. Wang, K. Deng, F. Dou, J. Bi, J. Lu. Beyond Linear Depth Scaling: Diagnosing Piecewise Layer Reliability for Data-Free Model Merging (DIAL). Submitted to NeurIPS 2026."
 ---
 
-Xinyu Wang, Kangwei Deng, Fei Dou, Jinbo Bi, Jiangwen Lu.
-"DIAL: Data-Free Interference-Aware Layer-Scaling via Diagnostic Composition for Task-Vector Model Merging."
-Manuscript under review, 2026.
+X. Wang, K. Deng, F. Dou, J. Bi, J. Lu.
+
+**Beyond Linear Depth Scaling: Diagnosing Piecewise Layer Reliability for Data-Free Model Merging (DIAL)**
+
+Submitted to NeurIPS 2026.
+
+[Project overview](/projects/model-merging/)

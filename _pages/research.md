@@ -1,46 +1,33 @@
 ---
-layout: archive
-title: "Research"
+layout: prose
+title: "Models, methods, and working systems."
+kicker: About
 permalink: /research/
-author_profile: true
+intro: I’m Xinyu Wang, a Ph.D. candidate in Computer Science and Engineering at the University of Connecticut.
 ---
+My work spans representation learning, foundation-model adaptation, language agents, and ML systems. I enjoy problems that need both an algorithmic idea and the engineering to make it useful.
 
-My research is centered on reliable machine learning systems: models and agents that can be evaluated, adapted, constrained, and deployed in workflows where mistakes matter.
+## Two complementary kinds of work
 
-## LLM Agents, Control, and Safety
+As a **Graduate Research Assistant** in UConn’s Laboratory of Machine Learning and Health Informatics, I develop and evaluate learning methods for language agents, model merging, and structured generation. My research connects questions about representations and decision-making to concrete modeling problems.
 
-I study long-horizon language agents that must decide when to ask, delegate, verify, act, or escalate. This includes learning under the agent's own continuation policy, evaluating action value and regret, and designing guard frameworks for tool-using coding agents.
+As a **Machine Learning Systems Engineer (Graduate Technician)** with UConn’s Outage Prediction Model, I work on the engineering around operational forecasting workflows: data preparation, model execution, automated delivery, performance tuning, and recovery when inputs or jobs fail.
 
-Recent themes:
+The common thread is taking responsibility for both the method and its behavior in a working pipeline.
 
-* Reliable action selection for language agents.
-* Counterfactual action-value relabeling and audited evaluation.
-* Route, provenance, and capability checks for high-risk tool use.
-* Agent evaluation with explicit success, safety, and misfire criteria.
+## Background
 
-## Foundation Models and Model Adaptation
+- **Ph.D., Computer Science and Engineering**, University of Connecticut — expected October 2026.
+- **B.S.E., Computer Science and Engineering (Honors), and B.A., Mathematics**, University of Connecticut — 2019.
 
-I develop methods for adapting and evaluating foundation models under constrained settings, including data-free model merging and performance enhancement without task data, training, or test-time tuning.
+My technical toolkit includes Python, PyTorch, C++, SQL/PostgreSQL, distributed inference, Linux, MPI, and Slurm.
 
-Recent work improved average benchmark performance to 86.1 across 7 NLP tasks and 8 vision tasks under strict no-data constraints, with emphasis on reproducible evaluation and strong baseline comparisons.
+## What I’m looking for
 
-## Sequence Modeling, Decoding, and Search
+Full-time machine learning, applied science, and research engineering opportunities. I’m especially interested in LLMs, representation learning, and systems that bring learning methods into practical use.
 
-I work on structure-aware generation methods for autoregressive sequence models, especially settings where repeated outputs and hidden structural collapse can harm constrained generation.
+Based in Storrs, Connecticut; considering opportunities in Connecticut, Boston, New York, and US-remote teams.
 
-This work includes distributed asynchronous generation and evaluation frameworks, token-level value prediction, human-in-the-loop steering, and large-scale candidate generation over structured spaces.
+[Email me](mailto:xinyuwang1209@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xinyuwang1209) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ)
 
-## Applied AI for Health and Scientific Discovery
-
-I began my research in the Laboratory of Machine Learning and Health Informatics, where I worked on machine learning for health, genomics, multimodal data, molecular generation, and drug discovery.
-
-Selected directions include:
-
-* Multimodal health modeling with imaging, demographic, and auxiliary biomarkers.
-* Depression treatment outcome prediction using mobile sensing and clinical data.
-* Molecular generation with hierarchical chemical graph representations and autoregressive chemical language models.
-* Matrix completion and tensor modeling for biomedical phenotyping.
-
-## Earlier Systems Work
-
-Earlier in my research path, I also worked on secure inter-domain routing and RPKI/ROV forecast tools through the UConn Comcast Center for Excellence in Security Innovation. That work helped shape my interest in systems that combine algorithmic decisions with practical deployment constraints.
+Away from work, there’s [Hikaru](/cat/).

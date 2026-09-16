@@ -1,48 +1,22 @@
 ---
+layout: portfolio
 permalink: /
-title: "Machine Learning, LLM Agents, and Applied AI Systems"
-excerpt: "PhD researcher building reliable agentic AI and production-oriented ML systems."
-author_profile: true
+title: "Machine Learning & Systems"
+excerpt: "Xinyu Wang — developing machine learning methods and the systems that make them useful. PhD candidate at UConn, seeking full-time ML and research engineering opportunities."
+home: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Ph.D. candidate in Computer Science and Engineering at the University of Connecticut, working on machine learning systems, LLM agents, agentic control and safety, retrieval-augmented generation, foundation-model adaptation, and applied AI for real-world decision support.
-
-I am currently looking for AI/ML research internships and applied scientist roles where I can build and evaluate reliable AI systems. My strongest recent work focuses on language agents that decide when to ask, delegate, verify, act, or escalate; guardrails and benchmarks for tool-using coding agents; foundation-model adaptation; and sequence modeling for scientific AI.
-
-[Resume](/files/Xinyu-Wang-Resume-2026.pdf){: .btn .btn--primary}
-[Projects](/projects/){: .btn}
-[Notes](/notes/){: .btn}
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ){: .btn}
-[GitHub](https://github.com/xinyuwang1209){: .btn}
-
-## Focus Areas
-
-* **LLM agents and agentic control:** learning and evaluation methods for long-horizon agents, reliable action selection, escalation, verification, and safety checks.
-* **Foundation models and model adaptation:** data-free model merging, reproducible evaluation, and performance improvement under strict no-data constraints.
-* **ML systems engineering:** Python, C++, PyTorch, asynchronous CPU-GPU pipelines, large-scale evaluation harnesses, backend services, and experiment automation.
-* **Applied AI for health and science:** multimodal health modeling, molecular generation, sequence modeling, and interdisciplinary AI workflows.
-
-## Selected Work
-
-### LLM Agents, Agentic Control, and Safety
-
-I develop learning and evaluation methods for long-horizon language agents that choose when to ask, delegate, verify, act, or escalate. Recent work relabeled exact counterfactual action values under the learner's own continuation policy and improved audited-seed success from 6.2% to 37.8%, utility from -0.237 to 1.051, and decision regret from 0.323 to 0.109.
-
-I also built and audited a benchmark and guard framework for tool-using coding agents, using route, provenance, and capability checks to control high-risk actions. The strongest safe-family evaluations achieved 6/6 task success with zero unauthorized effects and zero route misfires.
-
-### Foundation Models, Sequence Modeling, and Scientific AI
-
-My research also includes data-free model merging, structure-aware decoding, autoregressive search, representation learning, molecular generation, and multimodal health prediction. I have worked on distributed generation and evaluation frameworks that scaled candidate generation to 1B+ samples in 6 days on 8 V100 GPUs.
-
-## Publications
-
-Selected publications are listed on my [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=9IjNO2sAAAAJ).
-
-## Contact
-
-* Email: [xinyuwang1209@gmail.com](mailto:xinyuwang1209@gmail.com)
-* LinkedIn: [linkedin.com/in/xinyuwang1209](https://www.linkedin.com/in/xinyuwang1209)
-* GitHub: [github.com/xinyuwang1209](https://github.com/xinyuwang1209)
+<section class="hero">
+<div><p class="eyebrow">Xinyu Wang · University of Connecticut</p>
+<h1>Developing ML methods.<br><em>Building the systems<br>behind them.</em></h1>
+<p class="intro">I work on how models learn representations, how language agents make decisions, and how to turn computationally demanding ideas into working systems.</p>
+<p class="availability">Ph.D. candidate in Computer Science &amp; Engineering · Expected October 2026<br>Seeking full-time machine learning and research engineering opportunities.</p>
+<div class="actions"><a class="button" href="/files/Xinyu-Wang-Resume-2026-09.pdf">Resume ↗</a><a href="/projects/">Selected work</a><a href="https://scholar.google.com/citations?hl=en&amp;user=9IjNO2sAAAAJ">Google Scholar</a></div></div>
+<figure style="margin:0"><img class="portrait" src="/images/profile.png" alt="Xinyu Wang" width="225" height="270"><figcaption class="portrait-note">Research + engineering<br>Storrs, Connecticut</figcaption></figure>
+</section>
+<section aria-labelledby="work-title"><div class="section-top"><h2 id="work-title">Selected work</h2><p>From learning algorithms to operational systems.</p></div>
+{% include portfolio-cards.html %}
+</section>
+<section class="selected-research"><div><h2>Learning representations beyond the surface.</h2><p>My work on molecular sequence models explores a broader question: how can different representations of the same object lead to consistent predictions? SIGMA improves mean performance across six molecular prediction benchmarks.</p></div><a href="/projects/representations/">Explore SIGMA ↗</a></section>

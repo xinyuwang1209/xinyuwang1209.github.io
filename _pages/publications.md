@@ -1,26 +1,12 @@
 ---
-layout: archive
-title: "Publications"
+layout: portfolio
+title: Publications
+kicker: Research
 permalink: /publications/
-author_profile: true
+intro: Work on learning methods, structured generation, and applications in health and science.
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-## Preprints and Under Review
-
-{% assign preprints = site.publications | where: "category", "preprint" | sort: "date" | reverse %}
-{% for post in preprints %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Peer-Reviewed Publications
-
-{% assign peer_reviewed = site.publications | where: "category", "peer-reviewed" | sort: "date" | reverse %}
-{% for post in peer_reviewed %}
-  {% include archive-single.html %}
-{% endfor %}
+<p><a href="https://scholar.google.com/citations?hl=en&amp;user=9IjNO2sAAAAJ">Google Scholar ↗</a></p>
+<h2>Preprints &amp; submissions</h2>
+<ol class="paper-list">{% for paper in site.data.papers %}{% if paper.status %}<li><span class="venue">{{ paper.status }}</span><h3>{% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3><p>{{ paper.authors | join: ', ' }}</p></li>{% endif %}{% endfor %}</ol>
+<h2>Peer-reviewed publications</h2>
+<ol class="paper-list">{% for paper in site.data.papers %}{% if paper.venue %}<li><span class="venue">{{ paper.venue }}</span><h3>{% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3><p>{{ paper.authors | join: ', ' }}</p></li>{% endif %}{% endfor %}</ol>

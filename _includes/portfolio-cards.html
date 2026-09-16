@@ -1,0 +1,1 @@
+<div class="work-grid">{% for work in site.data.selected_work %}<article class="work-card"><p class="category">{{ work.category }}</p><h3>{{ work.title }}</h3><p>{{ work.summary }}</p><div class="metric"><strong>{{ work.metric }}</strong><span>{{ work.context }}</span></div><a href="{{ work.url | relative_url }}">Read the project ↗</a></article>{% endfor %}</div>

@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: prose
 title: "Engineering Notes"
 permalink: /notes/
-author_profile: true
+kicker: Systems in practice
 ---
 
 Short notes on practical systems debugging, open-source patches, and reliability work around ML systems and coding-agent infrastructure.

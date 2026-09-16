@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} · Xinyu Wang</title>
+<meta name="description" content="{{ page.excerpt | default: site.description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+</head><body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header wrap"><a class="wordmark" href="/">Xinyu Wang<span>Machine learning & systems</span></a><nav aria-label="Main navigation"><a href="/projects/">Work</a><a href="/publications/">Publications</a><a href="/research/">About</a><a class="nav-resume" href="/files/Xinyu-Wang-Resume-2026-09.pdf">Resume ↗</a></nav></header>
+<main id="main" class="wrap {% if page.home %}home{% else %}inner{% endif %}">
+{% unless page.home %}<div class="page-heading"><p class="eyebrow">{{ page.kicker | default: 'Xinyu Wang' }}</p><h1>{{ page.title }}</h1>{% if page.intro %}<p class="intro">{{ page.intro }}</p>{% endif %}</div>{% endunless %}
+{{ content }}
+</main>
+<footer class="wrap site-footer"><div><strong>Let’s talk about ML.</strong><a href="mailto:xinyuwang1209@gmail.com">xinyuwang1209@gmail.com</a></div><nav aria-label="Footer navigation"><a href="https://www.linkedin.com/in/xinyuwang1209">LinkedIn</a><a href="https://scholar.google.com/citations?hl=en&amp;user=9IjNO2sAAAAJ">Scholar</a><a href="/notes/">Engineering notes</a><a href="/cat/">Hikaru, my cat</a></nav><p class="copyright">© {{ 'now' | date: '%Y' }} Xinyu Wang · Storrs, Connecticut</p></footer>
+</body></html>

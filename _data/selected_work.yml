@@ -1,0 +1,24 @@
+- category: Language agents / Learning
+  title: Helping language agents make better decisions
+  summary: Learning action scores from the states an agent actually reaches, rather than relying only on offline training data.
+  metric: 56.1% → 78.1%
+  context: Pass rate on 114 telecom tasks.
+  url: /projects/agents/
+- category: Foundation models / Adaptation
+  title: Improving merged models without retraining
+  summary: Diagnosing unreliable layers and adjusting how model updates are combined—without task examples or validation search.
+  metric: 77.6% → 82.3%
+  context: ViT-B/16 average accuracy, compared with TIES merging.
+  url: /projects/model-merging/
+- category: ML systems / Distributed generation
+  title: Scaling generation beyond a single inference loop
+  summary: An asynchronous pipeline separating model generation, token-level scoring, and evaluation across GPUs.
+  metric: 1B+ samples
+  context: Molecular candidate samples processed in six days.
+  url: /projects/generation/
+- category: Applied ML / Operational forecasting
+  title: Building reliable outage-forecasting workflows
+  summary: Designing and maintaining UConn’s weather-to-outage forecasting workflow, from data readiness through automated delivery and recovery.
+  metric: 59% faster processing
+  context: Development-pipeline improvement through parallelism and MPI tuning.
+  url: /projects/forecasting/

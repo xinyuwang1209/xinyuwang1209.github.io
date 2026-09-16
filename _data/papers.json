@@ -1,0 +1,125 @@
+[
+  {
+    "authors": [
+      "T. Zhu",
+      "F. Dou",
+      "X. Wang",
+      "J. Lu",
+      "J. Bi"
+    ],
+    "title": "Polyhedron Attention Module: Learning Adaptive-Order Interactions",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS), 2023"
+  },
+  {
+    "authors": [
+      "X. Wang",
+      "F. Dou",
+      "J. Bi",
+      "M. Song"
+    ],
+    "title": "SIGMA: Semantic Identifier Grouping for Molecular Autoregression",
+    "status": "Submitted to AAAI 2027",
+    "url": "https://arxiv.org/abs/2603.25062"
+  },
+  {
+    "authors": [
+      "X. Wang",
+      "K. Deng",
+      "F. Dou",
+      "J. Bi",
+      "J. Lu"
+    ],
+    "title": "Beyond Linear Depth Scaling: Diagnosing Piecewise Layer Reliability for Data-Free Model Merging (DIAL)",
+    "status": "Submitted to NeurIPS 2026"
+  },
+  {
+    "authors": [
+      "X. Wang",
+      "J. Bi",
+      "M. Song"
+    ],
+    "title": "Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks",
+    "status": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2505.00530"
+  },
+  {
+    "authors": [
+      "Z. Gao",
+      "X. Wang",
+      "B. Blumenfeld Gaines",
+      "X. Shi",
+      "J. Bi",
+      "M. Song"
+    ],
+    "title": "Fragment-based Deep Molecular Generation Using Hierarchical Chemical Graph Representation and Multi-resolution Graph Variational Autoencoder",
+    "venue": "Molecular Informatics 42(5), 2200215, 2023",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/minf.202200215"
+  },
+  {
+    "authors": [
+      "S. Sahoo",
+      "C. Shende",
+      "M. Z. Hossain",
+      "P. Patel",
+      "Y. Niu",
+      "X. Wang",
+      "S. Ware",
+      "J. Bi"
+    ],
+    "title": "Cross-platform Prediction of Depression Treatment Outcome Using Location Sensory Data on Smartphones",
+    "venue": "IEEE/ACM CHASE 2025",
+    "url": "https://arxiv.org/abs/2503.07883"
+  },
+  {
+    "authors": [
+      "S. Sahoo",
+      "C. Shende",
+      "M. Z. Hossain",
+      "P. Patel",
+      "X. Wang",
+      "M. I. Mahmud",
+      "J. Bi"
+    ],
+    "title": "Using Mobile Daily Mood and Anxiety Self-ratings to Predict Depression Symptom Improvement",
+    "venue": "IEEE/ACM CHASE 2024"
+  },
+  {
+    "authors": [
+      "C. Shende",
+      "S. Sahoo",
+      "S. Sam",
+      "P. Patel",
+      "R. Morillo",
+      "X. Wang",
+      "S. Ware",
+      "J. Bi"
+    ],
+    "title": "Predicting Symptom Improvement During Depression Treatment Using Sleep Sensory Data",
+    "venue": "PACM IMWUT, 2023"
+  },
+  {
+    "authors": [
+      "J. Lu",
+      "J. Sun",
+      "X. Wang",
+      "H. R. Kranzler",
+      "J. Gelernter",
+      "J. Bi"
+    ],
+    "title": "Inferring Phenotypes from Substance Use via Collaborative Matrix Completion",
+    "venue": "BMC Systems Biology 12, 15-27, 2018",
+    "url": "https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0623-5"
+  },
+  {
+    "authors": [
+      "J. Lu",
+      "J. Sun",
+      "X. Wang",
+      "H. R. Kranzler",
+      "J. Gelernter",
+      "J. Bi"
+    ],
+    "title": "Collaborative Phenotype Inference from Comorbid Substance Use Disorders and Genotypes",
+    "venue": "IEEE BIBM 2017"
+  }
+]

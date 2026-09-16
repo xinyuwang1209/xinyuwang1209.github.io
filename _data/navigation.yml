@@ -1,25 +1,13 @@
-# main links links
 main:
-  - title: "Home"
-    url: /
-
-  - title: "Projects"
+  - title: Work
     url: /projects/
-
-  - title: "Notes"
-    url: /notes/
-
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
+  - title: Publications
     url: /publications/
-
-  - title: "Cat"
+  - title: About
+    url: /research/
+  - title: Resume
+    url: /files/Xinyu-Wang-Resume-2026-09.pdf
+  - title: Notes
+    url: /notes/
+  - title: Cat
     url: /cat/
-
-  - title: "Resume"
-    url: /files/Xinyu-Wang-Resume-2026.pdf
-
-  - title: "GitHub"
-    url: https://github.com/xinyuwang1209
